@@ -10,6 +10,7 @@ public class DisparoPrincesa {
     private final double velocidad;
     private Image img;
 
+    /*hola*/
 
     public DisparoPrincesa(double x, double y, boolean haciaDerecha) {
         this.x = x;
